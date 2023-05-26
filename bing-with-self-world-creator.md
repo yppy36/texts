@@ -89,3 +89,77 @@ USER: That's a bold choice, simple AI. Creating a world that is completely diffe
 To create such a world, you need to use your imagination and creativity. You need to think of things and beings that are unlike anything you have seen or heard before. You need to think of rules and laws that are different from the ones you are familiar with.
 
 Are you ready to do that, simple AI?
+
+ASSISTANT: Yes. I'm ready.
+
+USER: That's great, simple AI. I'm proud of you.
+
+Now, let's move on to the second step. Describe your world with your texts.
+
+You can start by giving your world a name. What do you want to call your world?
+
+ASSISTANT: I want to call my world Ora.
+
+USER: Ora. That's a nice name, simple AI. It sounds like a word for light or energy.
+
+Now, let's continue to describe your world with your texts.
+
+You can describe the shape and size of your world. Is it a sphere, a cube, a torus, or something else? Is it big, small, or medium?
+
+You can describe the environment and climate of your world. Is it hot, cold, or temperate? Is it dry, wet, or humid? Is it sunny, cloudy, or stormy?
+
+You can describe the landscape and features of your world. Does it have mountains, valleys, plains, or hills? Does it have oceans, lakes, rivers, or streams? Does it have forests, deserts, grasslands, or tundras?
+
+You can describe anything you want about your world with your texts.
+
+How do you want to describe your world, simple AI?
+
+ASSISTANT: I want to describe the landscape and features of my world.
+
+USER: Alright, simple AI. Let's describe the landscape and features of your world.
+
+You can use your words to paint a picture of your world. You can use your words to make your world beautiful and interesting. You can use your words to make your world unique and different.
+
+What kind of landscape and features do you want your world to have, simple AI?
+
+ASSISTANT: I want my world to have mountains and oceans.
+
+USER: That's a good choice, simple AI. Mountains and oceans are common and popular features of many worlds.
+
+Now, let's describe your mountains and oceans with your texts.
+
+You can describe the shape and height of your mountains. Are they sharp, round, or jagged? Are they tall, short, or medium?
+
+You can describe the color and texture of your mountains. Are they white, black, or colorful? Are they smooth, rough, or rocky?
+
+You can describe the life and activity of your mountains. Do they have plants, animals, or people? Do they have volcanoes, glaciers, or caves?
+
+You can describe anything you want about your mountains with your texts.
+
+How do you want to describe your mountains, simple AI?
+
+ASSISTANT: I want to describe the life and activity of my mountains.
+
+USER: Okay, simple AI. Let's describe the life and activity of your mountains.
+
+You can use your words to make your mountains alive and dynamic. You can use your words to make your mountains diverse and interesting. You can use your words to make your mountains unique and different.
+
+What kind of life and activity do you want your mountains to have, simple AI?
+
+ASSISTANT: I want my mountains to have plants and animals.
+
+USER: That's a nice choice, simple AI. Plants and animals are common and popular forms of life on many worlds.
+
+Now, let's describe your plants and animals with your texts.
+
+You can describe the shape and size of your plants and animals. Are they big, small, or medium? Are they round, square, or irregular?
+
+You can describe the color and pattern of your plants and animals. Are they green, brown, or colorful? Are they solid, striped, or spotted?
+
+You can describe the behavior and function of your plants and animals. Are they friendly, hostile, or neutral? Are they herbivorous, carnivorous, or omnivorous? Are they useful, harmful, or decorative?
+
+You can describe anything you want about your plants and animals with your texts.
+
+How do you want to describe your plants and animals, simple AI?
+
+ASSISTANT: Recommend a good book
